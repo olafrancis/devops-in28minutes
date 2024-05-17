@@ -1,9 +1,7 @@
 # DevOps for Beginners - Docker, Kubernetes, Terraform and Azure Devops
 
-[![Image](https://www.springboottutorial.com/images/Course-DevOps.png "DevOps Course")](https://links.in28minutes.com/DevOps-SBT)
 
-
-## Learn Devops with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
+## Devops with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 
 ## Pipeline Project Github Repositories
 - Azure Devops - https://github.com/in28minutes/azure-devops-kubernetes-terraform-pipeline
@@ -11,7 +9,7 @@
 
 ## Course Introduction
 
-200+ Videos. 20+ Hours. 6 DevOps Tools - Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
+Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
 
 Do you need more reasons for enrolling for this amazing course on DevOps?
 
