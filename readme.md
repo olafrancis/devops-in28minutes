@@ -1,35 +1,14 @@
-# DevOps for Beginners - Docker, Kubernetes, Terraform and Azure Devops
-
-
 ## Devops with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops
 
 ## Pipeline Project Github Repositories
 - Azure Devops - https://github.com/in28minutes/azure-devops-kubernetes-terraform-pipeline
 - Jenkins - https://github.com/in28minutes/jenkin-devops-microservice
 
-## Course Introduction
+## Introduction
 
 Docker, Kubernetes, Azure Devops, Jenkins, Terraform, and Ansible. 3 Different Clouds - AWS, Azure and Google Cloud. 
 
-Do you need more reasons for enrolling for this amazing course on DevOps?
-
-Do you have ZERO experience with DevOps with Docker, Kubernetes, Azure Devops, Jenkins, Terraform, Ansible, AWS, Azure and Google Cloud? No Problem.
-
-Do you have ZERO experience with DevOps Containers and Container Orchestration with Docker and Kubernetes? No Problem.
-
-Do you have ZERO experience with Continuous Integration or Continuous Delivery in DevOps with Azure Devops and Jenkins? No Problem.
-
-Do you have ZERO experience with the Cloud? No Problem.
-
-Are you ready to learn DevOps with Docker, Kubernetes, Terraform, Ansible, Jenkins and Azure Devops in multiple clouds - AWS, Azure and Google Cloud?
-
-Do you want to join 300,000+ learners having Amazing Learning Experiences with in28Minutes?
-
-Buckle up and Get ready for this wonderful ride on DevOps, Microservices and the Cloud.
-
-Look No Further!
-
-## Course Overview
+## Overview
 
 DevOps is all about People, Process and Tools. In this course, you will understand the basics of DevOps and learn to do DevOps with Docker, Kubernetes, Ansible, Terraform, Azure DevOps and Jenkins. You will learn to implement DevOps with Continuous Integration, Continuous Delivery and Infrastructure as Code. You will play with 3 different clouds - AWS, Azure and Google Cloud.
 
